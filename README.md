@@ -1,18 +1,16 @@
 # AWS-Identity-Federation-SAML
-A Self-Directed Journey to AWS Identity Federation Mastery - Microsoft variant
+The following Project will walk you through configuring Identity federation between microsoft active directory and AWS cloud environment.
 AWS Service/Feature Coverage:
 
 AWS IAM users & roles
 Architecture
 The following image provides a visual representation of what you are about to construct during this initial exercise.
+
 ![image](https://user-images.githubusercontent.com/73201241/154366601-6652ae21-d95a-439f-986c-2a2e1e98de3a.png)
 
 
-Exercise architecture
+Project architecture
 
-Attention
-
-You should use this architecture and associated AWS CloudFormation template for demonstration and learning purposes ONLY. The template contains default passwords and has not been hardened in any way beyond the default configuration provided by the Amazon Machine Image (AMI). Furthermore, the IdP infrastructure has been simplified to focus on the learning objectives and is not set up for availability and scalability, and is not appropriate for production use.
 
 Prerequisites
 The following list identifies the prerequisites for this workshop. If you have not assembled these elements, please the take time to do so now:
